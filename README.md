@@ -1,6 +1,6 @@
 # Android_Image_From_DatabaseUrl
 This Project is basically designed for the backend users.
-User is going to type the url of image in database then android frondend code directly converts that image url into image that is visible in imageview attached in listview.
+User is going to type the url of image in database then android frondend code directly converts that image url into image that is visible in imageview attached n listview.
 
 
 The MIT License (MIT)
