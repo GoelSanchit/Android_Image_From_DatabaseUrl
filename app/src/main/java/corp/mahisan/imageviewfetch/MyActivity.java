@@ -1,6 +1,5 @@
 package corp.mahisan.imageviewfetch;
 
-
 import java.io.BufferedInputStream;
 import java.io.BufferedOutputStream;
 import java.io.BufferedReader;
