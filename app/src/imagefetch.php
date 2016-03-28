@@ -1,5 +1,4 @@
 <?php
- 
 $objConnect = mysql_connect("Host_name","Host_Username","password");
 $objDB = mysql_select_db("database_name");
 $strSQL = "SELECT * FROM image WHERE 1 ";
