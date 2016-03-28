@@ -5,7 +5,6 @@
     android:orientation="horizontal"
     android:padding="10dp">
 
-
     <ImageView
         android:id="@+id/fullimage"
         android:layout_width="match_parent"
