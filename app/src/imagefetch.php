@@ -16,4 +16,5 @@ array_push($resultArray,$arrCol);
 }
 mysql_close($objConnect);
 echo json_encode($resultArray);
+
 ?>
